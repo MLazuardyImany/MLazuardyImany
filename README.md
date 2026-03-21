@@ -1,4 +1,4 @@
-# 📊 Maki_Mareincarnate's Development Dashboard
+Lazuardy Progress Dashboard
 
 | **My GitHub Stats** | **Language Stack** |
 |:---:|:---:|
