@@ -1,15 +1,17 @@
-### 📈 GitHub Progress & Stats
+# 📊 Maki_Mareincarnate's Development Dashboard
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLazuardyImany&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/USERNAME_KAMU)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MLazuardyImany&hide_border=true)](https://github.com/USERNAME_KAMU)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLazuardyImany&layout=compact&hide_border=true)](https://github.com/USERNAME_KAMU)
+| **My GitHub Stats** | **Language Stack** |
+|:---:|:---:|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Maki_Mareincarnate&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" alt="GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maki_Mareincarnate&layout=compact&hide_border=true&theme=nord&langs_count=6" alt="Top Languages" /></a> |
 
 ---
 
-Stack
+### 📈 Activity Graph
 
-* **JavaScript**
-* **Java**
-* **Python**
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maki_Mareincarnate&theme=nord&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
+
+---
+
+### 📫 REACH OUT
+
+You can contact me via email at: `makimareincarnate@gmail.com`
