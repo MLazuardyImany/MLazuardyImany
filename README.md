@@ -1,4 +1,4 @@
-Lazuardy Progress Dashboard
+# Lazuardy Progress Dashboard
 
 | **My GitHub Stats** | **Language Stack** |
 |:---:|:---:|
