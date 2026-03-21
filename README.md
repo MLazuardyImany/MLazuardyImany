@@ -1,15 +1,21 @@
-# Lazuardy's GitHub Dashboard 📊
+### 📈 GitHub Progress & Stats
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLazuardyImany&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Lazuardy's Stats" width="55%" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/USERNAME_KAMU)
 
-### Details & Metrics 🛠
-* **Starred Repos:** [View Starred](https://github.com/MLazuardyImany?tab=stars)
-* **Tech Stack:** JavaScript, Java, Python
-* **Main Focus:** Backend Development
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&hide_border=true)](https://github.com/USERNAME_KAMU)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&hide_border=true)](https://github.com/USERNAME_KAMU)
 
 ---
 
-### Most Used Languages 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLazuardyImany&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&width=100%)
+### 💻 Tech Stack
+
+* **JavaScript**
+* **Java**
+* **Python**
+
+---
+
+### 📫 Contact
+
+* [makimareincarnate@gmail.com](mailto:makimareincarnate@gmail.com)
