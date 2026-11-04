@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F172A,100:06B6D4&height=230&section=header&text=Muhammad%20Lazuardy%20Imany&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Fresh%20Graduate%20Software%20Engineer&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Muhammad Lazuardy Imany" />
 
-### Hi there, I'm Muhammad Lazuardy Imany 👋
+## Hi there, I'm Muhammad Lazuardy Imany 👋
+
+<h3 align="center">Fresh Graduate Software Engineer <span>|</span> Backend &amp; Cloud Infrastructure Specialist</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=780&lines=Fresh+Graduate+Software+Engineer;Backend+%26+Cloud+Infrastructure+Specialist;Building+Scalable+Microservices;Exploring+Distributed+Systems" alt="Typing SVG" />
