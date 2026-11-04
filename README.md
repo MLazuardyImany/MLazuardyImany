@@ -122,17 +122,17 @@ I care about clean contracts between services, measurable performance, and docum
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MLazuardyImany&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MLazuardyImany&theme=tokyonight" height="180" alt="Overall GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLazuardyImany&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MLazuardyImany&theme=tokyonight" height="180" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com?user=MLazuardyImany&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MLazuardyImany&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=FFFFFF" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MLazuardyImany&theme=tokyonight" width="100%" alt="Contribution Activity Overview" />
 
 </div>
 
